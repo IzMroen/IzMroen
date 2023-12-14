@@ -3,7 +3,11 @@
 
 <h2 align="center">A Full-Stack developer from Morocco</h2>
 <img align="right" width="400" src="https://camo.githubusercontent.com/683e2187241c641430216c864ce93fc5a0e0dfb232c5a01d1c54b54d63aa8cb2/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313136323037372f73637265656e73686f74732f333834383931342f70726f6772616d6d65722e676966">
-<p align="left"> <a href="https://twitter.com/izmroen" target="blank"><img src="https://img.shields.io/twitter/follow/izmroen?logo=twitter&style=for-the-badge" alt="izmroen" /></a> </p>
+  <p align="left">
+    <a href="https://twitter.com/izmroen" target="blank">*
+      <img src="https://img.shields.io/twitter/follow/izmroen?logo=twitter&style=for-the-badge" alt="izmroen" />
+    </a>
+  </p>
 
 - 🔭 I’m currently working on **Full-Stack development**
 
@@ -15,15 +19,31 @@
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
-<a href="https://dev.to/izmroen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="izmroen" height="30" width="40" /></a>
-<a href="https://twitter.com/izmroen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="izmroen" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/izmroen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="izmroen" height="30" width="40" /></a>
-<a href="https://fb.com/izmroen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="izmroen" height="30" width="40" /></a>
-<a href="https://instagram.com/izmroen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="izmroen" height="30" width="40" /></a>
-<a href="https://dribbble.com/izmroen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="izmroen" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/izmroen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="izmroen" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@izmroen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@izmroen" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/izmroen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="izmroen" height="30" width="40" /></a>
+  <a href="https://dev.to/izmroen" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="izmroen" height="30" width="40" />
+  </a>
+  <a href="https://twitter.com/izmroen" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="izmroen" height="30" width="40" />
+  </a>
+  <a href="https://linkedin.com/in/izmroen" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="izmroen" height="30" width="40" />
+  </a>
+  <a href="https://fb.com/izmroen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="izmroen" height="30" width="40" /></a>
+  <a href="https://instagram.com/izmroen" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="izmroen" height="30" width="40" />
+  </a>
+  <a href="https://dribbble.com/izmroen" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="izmroen" height="30" width="40" />
+  </a>
+  <a href="https://www.youtube.com/c/izmroen" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="izmroen" height="30" width="40" />
+  </a>
+  <a href="https://www.hackerrank.com/@izmroen" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@izmroen" height="30" width="40" />
+  </a>
+  <a href="https://www.leetcode.com/izmroen" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="izmroen" height="30" width="40" />
+  </a>
 </p>
 
 <h2 align="left">Languages and Tools:</h2>
