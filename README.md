@@ -1,4 +1,4 @@
-<h2 align="center" >Hi 👋, I'm IzMroen</h2>
+<h2 align="center" >Hi 👋, I'm IzMroen :)</h2>
 
 <h3 align="center">A Full-Stack developer from Morocco 🇲🇦</h3>
 <hr/>
@@ -46,8 +46,14 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
 ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white)
 
-<!-- Add more sections as needed -->
-
+</div>
+<hr/>
+<h3 align="center">Contact me <3:</h3>
+<div align="center">
+<a href="https://github.com/IzMroen" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white"/></a>
+<a href="https://www.instagram.com/IzMroen" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="https://www.youtube.com/@IzMroen" target="_blank"><img alt="YouTube" src="https://img.shields.io/badge/YouTube-FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white"/</a>
+<a href="https://twitter.com/IzMroen" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"/</a>
+<a href="https://www.kaggle.com/izmroen" target="_blank"><img alt="Kaggle" src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white"/></a>
 </div>
 
-<!-- Add any additional content or sections -->
