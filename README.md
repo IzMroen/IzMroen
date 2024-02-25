@@ -1,5 +1,8 @@
-<h2 align="center" >Hi 👋, I'm IzMroen :)</h2>
-
+<div align="center">
+<a href="https://app.daily.dev/izmroen"><img src="https://api.daily.dev/devcards/v2/4GhGvwmnPzJXcgOTNRB6f.png?type=wide&r=5fv" width="652" alt="Iz Mroen's Dev Card"/></a>
+</div>
+<!-- <h2 align="center" >Hi 👋, I'm IzMroen :)</h2>
+ 
 <h3 align="center">A Full-Stack developer from Morocco 🇲🇦</h3>
 <hr/>
 <div align="center">
@@ -56,4 +59,5 @@
 <a href="https://twitter.com/IzMroen" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"/</a>
 <a href="https://www.kaggle.com/izmroen" target="_blank"><img alt="Kaggle" src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white"/></a>
 </div>
+-->
 
