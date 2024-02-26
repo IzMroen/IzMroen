@@ -1,6 +1,5 @@
 <div align="center">
-<a href="https://app.daily.dev/izmroen"><img src="https://api.daily.dev/devcards/v2/4GhGvwmnPzJXcgOTNRB6f.png?type=wide&r=5fv" width="652" alt="Iz Mroen's Dev Card"/></a>
-</div>
+<a href="https://app.daily.dev/izmroen"><img src="https://api.daily.dev/devcards/v2/4GhGvwmnPzJXcgOTNRB6f.png?type=default&r=xk9" width="356" alt="Iz Mroen's Dev Card"/></a>
 <!-- <h2 align="center" >Hi 👋, I'm IzMroen :)</h2>
 <!-- 
 <h3 align="center">A Full-Stack developer from Morocco 🇲🇦</h3>
